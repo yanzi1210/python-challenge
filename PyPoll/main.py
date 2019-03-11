@@ -1,6 +1,6 @@
 import os
 import csv
-election_data = '/Users/macowner/Desktop/03-Python/Instructions/PyPoll/Resources/election_data.csv'
+election_data = '.\election_data.csv'
 total_number = 0
 candidates = []
 Khan_vote = 0
