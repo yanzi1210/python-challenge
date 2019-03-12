@@ -1,6 +1,6 @@
 import os
 import csv
-budget_data = '/Users/macowner/Desktop/03-Python/Instructions/PyBank/Resources/budget_data.csv'
+budget_data = '.\budget_data.csv'
 total_months = 0
 total_amount = 0
 profit = []
